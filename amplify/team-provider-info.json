@@ -1,0 +1,15 @@
+{
+  "dev": {
+    "awscloudformation": {
+      "AuthRoleName": "amplify-barnmanagement-dev-155226-authRole",
+      "UnauthRoleArn": "arn:aws:iam::337220435894:role/amplify-barnmanagement-dev-155226-unauthRole",
+      "AuthRoleArn": "arn:aws:iam::337220435894:role/amplify-barnmanagement-dev-155226-authRole",
+      "Region": "us-east-1",
+      "DeploymentBucketName": "amplify-barnmanagement-dev-155226-deployment",
+      "UnauthRoleName": "amplify-barnmanagement-dev-155226-unauthRole",
+      "StackName": "amplify-barnmanagement-dev-155226",
+      "StackId": "arn:aws:cloudformation:us-east-1:337220435894:stack/amplify-barnmanagement-dev-155226/c75661f0-ca59-11ec-872f-1249cef8ae51",
+      "AmplifyAppId": "d32n0tz223ydxn"
+    }
+  }
+}
