@@ -1,0 +1,7 @@
+{
+    "AppSyncApiName": "barnmanagement",
+    "DynamoDBBillingMode": "PAY_PER_REQUEST",
+    "DynamoDBEnableServerSideEncryption": false,
+    "S3DeploymentBucket": "amplify-barnmanagement-dev-155226-deployment",
+    "S3DeploymentRootKey": "amplify-appsync-files/b8eabbd664212a1922ac2ae1ecda32ee95289658"
+}
